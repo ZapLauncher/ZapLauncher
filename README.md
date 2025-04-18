@@ -28,6 +28,8 @@ If you execute bash install.sh and typing zaplaunch launching the game will say 
 
 3. It is open source so people can modify the source code
 
+4. People can use it in the command line.
+
 # Credits
 
 Orignal Author - Zohan Haque
